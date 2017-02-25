@@ -1,0 +1,8 @@
+.data
+.globl main
+.text
+
+main: add $2, $6, $6
+      add $3, $2, $6
+      add $4, $3, $3
+loop: beq S4, $4, main

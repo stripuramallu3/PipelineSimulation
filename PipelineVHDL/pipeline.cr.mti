@@ -1,0 +1,101 @@
+C:/Users/Sreerama/Documents/PipelineVHDL/pipe_reg1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Sreerama/Documents/PipelineVHDL/pipe_reg1.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pipe_reg1
+-- Compiling architecture behavioral of pipe_reg1
+
+} {} {}} C:/Users/Sreerama/Documents/PipelineVHDL/ps_fetch.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Sreerama/Documents/PipelineVHDL/ps_fetch.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity fetch
+-- Compiling architecture behavioral of fetch
+
+} {} {}} C:/Users/Sreerama/Documents/PipelineVHDL/ps_execute.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Sreerama/Documents/PipelineVHDL/ps_execute.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity execute
+-- Compiling architecture behavioral of execute
+
+} {} {}} C:/Users/Sreerama/Documents/PipelineVHDL/pipe_reg2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Sreerama/Documents/PipelineVHDL/pipe_reg2.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pipe_reg2
+-- Compiling architecture behavioral of pipe_reg2
+
+} {} {}} C:/Users/Sreerama/Documents/PipelineVHDL/spim_pipe.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Sreerama/Documents/PipelineVHDL/spim_pipe.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity spim_pipe
+-- Compiling architecture structural of spim_pipe
+
+} {} {}} C:/Users/Sreerama/Documents/PipelineVHDL/ps_clock.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Sreerama/Documents/PipelineVHDL/ps_clock.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity my_clock
+-- Compiling architecture behavior of my_clock
+
+} {} {}} C:/Users/Sreerama/Documents/PipelineVHDL/pipe_reg3.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Sreerama/Documents/PipelineVHDL/pipe_reg3.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pipe_reg3
+-- Compiling architecture behavioral of pipe_reg3
+
+} {} {}} C:/Users/Sreerama/Documents/PipelineVHDL/ps_decode.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Sreerama/Documents/PipelineVHDL/ps_decode.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity decode
+-- Compiling architecture behavioral of decode
+
+} {} {}} C:/Users/Sreerama/Documents/PipelineVHDL/pipe_reg4.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Sreerama/Documents/PipelineVHDL/pipe_reg4.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pipe_reg4
+-- Compiling architecture behavioral of pipe_reg4
+
+} {} {}} C:/Users/Sreerama/Documents/PipelineVHDL/ps_memory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Sreerama/Documents/PipelineVHDL/ps_memory.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory
+-- Compiling architecture behavioral of memory
+
+} {} {}} C:/Users/Sreerama/Documents/PipelineVHDL/ps_control.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Sreerama/Documents/PipelineVHDL/ps_control.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity control
+-- Compiling architecture behavioral of control
+
+} {} {}}
